@@ -1,0 +1,5 @@
+A média do joao foi 7.0 e ele foi aprovado
+A média do maria foi 6.2 e ele foi reprovado
+A média do pedro foi 6.8 e ele foi reprovado
+A média do ana foi 6.9 e ele foi reprovado
+A média geral da turma foi 6.7
